@@ -1,0 +1,346 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2021-12-29 18:18+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: valitorpay-payment-gateway-for-woocommerce.php:46
+#, php-format
+msgid ""
+"ValitorPay requires WooCommerce to be installed and active. You can download "
+"%s here."
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay-subscriptions.php:74
+#: includes/class-wc-gateway-valitorpay.php:301
+#: includes/class-wc-gateway-valitorpay.php:382
+#, php-format
+msgid "Transaction ID: %s"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay-subscriptions.php:75
+#, php-format
+msgid "Scheduled payment valitorpay response: %s"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay-subscriptions.php:119
+msgid "Customer id"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:36
+#: includes/class-wc-gateway-valitorpay.php:111
+msgid "ValitorPay"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:37
+msgid "ValitorPay take direct values for payment"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:102
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:104
+msgid "Enable ValitorPay Payments"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:108
+msgid "Title"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:110
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:115
+msgid "Description"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:117
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:121
+msgid "Test mode"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:122
+msgid "Enable Test Mode"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:124
+msgid "Place the payment gateway in test mode ."
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:129
+msgid "API key"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:131
+msgid "Please enter here your API key for ValitorPay."
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:137
+msgid "Advanced features"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:141
+msgid "3dSecure"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:142
+msgid "Enable 3dSecure for singular payments"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:148
+msgid "Terminal Id"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:150
+msgid ""
+"The ValitorPay merchant terminal identifier. Must be a numeric value with no "
+"leading zeros."
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:154
+msgid "Agreement number"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:156
+msgid ""
+"The ValitorPay merchant agreement number. Must be a numeric value with no "
+"leading zeros"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:160
+msgid "Debug"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:161
+msgid "Enable Debug Mode"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:167
+msgid "Use nonce check"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:168
+msgid "Use nonce check while 3dSecure processing"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:214
+msgid "In test mode, you can use cardNumber - 2223000010246699 cvc-123"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:241
+#, php-format
+msgid "process_payment - start: %s"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:302
+#, php-format
+msgid "Valitorpay response: %s"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:303
+#, php-format
+msgid "Payment: %s"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:307
+msgid "Authorization failed"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:364
+msgid "Refund failed."
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:383
+#, php-format
+msgid "Refund response: %s"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:384
+#, php-format
+msgid "Refund: %s"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:390
+msgid "Refund failed: "
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:407
+msgid "Successful redirect to intent checkout"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:416
+msgid "Empty checkout args"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:443
+msgid "Successful authenticationSuccessUrl callback"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:451
+msgid "Empty response"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:469
+#, php-format
+msgid "Virtual card: %s(test mode info only)"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:471
+#, php-format
+msgid "Masked card: %s(test mode info only)"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:479
+msgid "Transaction ID: "
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:480
+msgid "Valitorpay response: "
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:490
+#, php-format
+msgid "Payment error. %s; Error code: %s"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:496
+#, php-format
+msgid "Payment error. %s"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:510
+msgid "Payment error"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:566
+msgid "3D secure verification: redirected user to external verification server"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:593
+#, php-format
+msgid "External verification - response($_REQUEST): %s"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:600
+#, php-format
+msgid "Card verification failed(%s)"
+msgstr ""
+
+#: includes/class-wc-gateway-valitorpay.php:602
+msgid "Card verification failed(errorCode:2)"
+msgstr ""
+
+#: includes/class-wc-valitorpay-api.php:56
+#: includes/class-wc-valitorpay-api.php:57
+msgid "Empty Response"
+msgstr ""
+
+#: includes/class-wc-valitorpay-api.php:108
+#, php-format
+msgid "card_verification - args: %s"
+msgstr ""
+
+#: includes/class-wc-valitorpay-api.php:111
+#, php-format
+msgid "card_verification - response: %s"
+msgstr ""
+
+#: includes/class-wc-valitorpay-api.php:150
+#, php-format
+msgid "card_payment - args: %s"
+msgstr ""
+
+#: includes/class-wc-valitorpay-api.php:153
+#, php-format
+msgid "card_payment - response: %s"
+msgstr ""
+
+#: includes/class-wc-valitorpay-api.php:204
+#, php-format
+msgid "payment_with_verification - args: %s"
+msgstr ""
+
+#: includes/class-wc-valitorpay-api.php:207
+#, php-format
+msgid "payment_with_verification - response: %s"
+msgstr ""
+
+#: includes/class-wc-valitorpay-api.php:240
+#, php-format
+msgid "virtual card payment - args: %s"
+msgstr ""
+
+#: includes/class-wc-valitorpay-api.php:243
+#, php-format
+msgid "virtual card payment - response: %s"
+msgstr ""
+
+#: includes/class-wc-valitorpay-api.php:287
+#, php-format
+msgid "%s refund - args: %s"
+msgstr ""
+
+#: includes/class-wc-valitorpay-api.php:289
+#, php-format
+msgid "%s refund - response: %s"
+msgstr ""
+
+#: includes/class-wc-valitorpay-api.php:321
+#, php-format
+msgid "create virtual card - args: %s"
+msgstr ""
+
+#: includes/class-wc-valitorpay-api.php:324
+#, php-format
+msgid "create virtual card - response: %s"
+msgstr ""
+
+#: includes/class-wc-valitorpay-api.php:348
+#, php-format
+msgid "virtual card data - args: %s"
+msgstr ""
+
+#: includes/class-wc-valitorpay-api.php:351
+#, php-format
+msgid "virtual card data- response: %s"
+msgstr ""
+
+#: includes/class-wc-valitorpay-api.php:377
+#, php-format
+msgid "virtual card expiration renewal - args: %s"
+msgstr ""
+
+#: includes/class-wc-valitorpay-api.php:380
+#, php-format
+msgid "virtual card expiration renewal - response: %s"
+msgstr ""
+
+#: includes/class-wc-valitorpay-helper.php:361
+msgid "Verification html..."
+msgstr ""
+
+#: includes/class-wc-valitorpay-intent-controller.php:89
+msgid "Missing order ID for payment confirmation"
+msgstr ""
+
+#: includes/class-wc-valitorpay-intent-controller.php:92
+msgid "Order is paid"
+msgstr ""
+
+#: includes/class-wc-valitorpay-intent-controller.php:108
+msgid "CSRF verification failed."
+msgstr ""

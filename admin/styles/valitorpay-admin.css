@@ -1,0 +1,26 @@
+.valitorpay-advanced-settings{
+	margin: 1em 0 1.5em;
+}
+.valitorpay-advanced-settings a span{
+    display: inline-block;
+    vertical-align: middle;
+}
+.valitorpay-advanced-settings  a span::before {
+	font-family: Dashicons;
+    speak: none;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    text-indent: 0;
+    text-align: center;
+	content: "\f10f";
+}
+.valitorpay-advanced-settings  a.advanced-settings-showed span::before {
+	content: "\f14f";
+}
+.valitorpay-advanced-settings+table{
+	display: none;
+}
